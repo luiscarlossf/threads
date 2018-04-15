@@ -1,6 +1,7 @@
 /*
 *UNIVERVISADE FEDERAL DO PIAUÍ
 *Curso Bacharelado em Ciência da Computação
+*Disciplina: Sistemas Operacionais
 *Luis Carlos da Silva Filho 
 *Objetivo: Implementação do problema do jantar dos filósofos usando threads e semáforos.
 */
