@@ -4,5 +4,7 @@ Foram feitas modificações no algoritmo é do livro Sistemas Operacionais do Ta
 entre os filósofos e que são garantidas a exclusão mútua e sincronização entre os processos (filósofos).
 
 ## Para executar
+```
 gcc philosopher.c -o main
 ./main
+```
